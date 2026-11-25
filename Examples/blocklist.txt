@@ -1,0 +1,7 @@
+# auto-generated blocklist (nginx syntax)
+deny 203.0.113.50;   # BRUTE_FORCE,SCANNER
+deny 203.0.113.77;   # BRUTE_FORCE
+deny 192.0.2.99;   # BRUTE_FORCE,DIR_TRAVERSAL
+deny 198.51.100.200;   # SCANNER
+deny 192.0.2.150;   # INJECTION
+deny 203.0.113.200;   # RATE_ABUSE
